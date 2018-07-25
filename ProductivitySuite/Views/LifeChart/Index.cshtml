@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<h2>Days</h2>
+<div id="days">
+    @for (var i = 0; i < 365 * 90; i++)
+    {
+        <div class="day">@i</div>
+    }
+</div>
+
+<h2>Weeks</h2>
+<div id="weeks">
+    @for (var i = 0; i < 52 * 90; i++)
+    {
+        <div class="week">@i</div>
+    }
+</div>
+
+<h2>Months</h2>
+<div id="months">
+    @for (var i = 0; i < 12 * 90; i++)
+    {
+        <div class="month">@i</div>
+    }
+</div>
+
+<h2>Years</h2>
+<div id="years">
+    @for (var i = 0; i < 90; i++)
+    {
+        <div class="year">@i</div>
+    }
+</div>

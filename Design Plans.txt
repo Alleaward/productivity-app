@@ -1,0 +1,24 @@
+Basic Concept:
+
+Basic Modules:
+    List
+    Graph(s)
+    ToDo
+    Api Plugins (stocks, crypto, youtube)
+    Financial
+    Diet
+    Exercise
+
+How to implement drag and drop?
+    React?
+    Vue?
+    Angular?
+
+Something cool with SVG?
+
+AI?
+
+Deeplearning?
+
+A life chart. (Daily, Weekly, Monthly, Yearly)
+    Calculates age expectancy. (Country, gender, race)
